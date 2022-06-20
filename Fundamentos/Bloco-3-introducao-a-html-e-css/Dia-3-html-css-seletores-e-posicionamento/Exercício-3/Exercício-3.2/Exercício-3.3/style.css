@@ -1,0 +1,59 @@
+.listao {
+    background-color: yellow;
+}
+
+.impar{
+    text-transform: uppercase;
+}
+
+.par {
+    color: green;
+}
+
+.Header {
+    color: red; 
+}
+
+.italico {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+.italiconegrito {
+    font-weight: bolder;
+}
+
+.linguagem {
+    color: blue;
+}
+
+.java {
+    background-color: pink;
+}
+
+.Aliados:hover {
+font-weight: bolder;
+}
+
+.Stack:hover {
+    color: orange;
+}
+
+.W3:hover {
+    color: green;
+}
+
+.MDN:hover {
+    color:black;
+}
+.Dev:hover {
+    color: yellow;
+}
+
+.Trybe:hover {
+    color: green;
+}
